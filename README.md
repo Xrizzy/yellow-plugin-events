@@ -19,7 +19,7 @@ This plugin requieres at least Yellow 0.6.6!
 
 1. [Download and install Yellow](https://github.com/datenstrom/yellow/).
 2. [Download plugin](https://github.com/xrizzy/yellow-plugin-events/archive/master.zip). If you are using Safari, right click and select 'Download file as'.
-3. Copy `master.zip` into your `system/plugins` folder.
+3. Copy `yellow-plugin-events-master.zip` into your `system/plugins` folder (DO NOT unzip!).
 
 To uninstall delete the plugin files.
 
