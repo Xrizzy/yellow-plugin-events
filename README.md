@@ -8,9 +8,9 @@ Thanks to the excellent work of the Yellow guys, putting this together was not m
 
 Enjoy :)
 
-To make the best out of this plugin you might also want to install these plugins:
-* c which provides beautiful fontawesome icons for your website.
-* [TOC plugin](https://github.com/datenstrom/yellow-plugins/tree/master/toc) for the agenda to your event, especially useful for meetings.
+To make the best out of this yellow-plugin you might also want to install these yellow-plugins:
+* [Yellow Fontawesome plugin](https://github.com/datenstrom/yellow-plugins/tree/master/fontawesome) which provides beautiful fontawesome icons for your website.
+* [Yellow TOC plugin](https://github.com/datenstrom/yellow-plugins/tree/master/toc) for the agenda to your event, especially useful for meetings.
 
 The following [custom navigation](https://developers.datenstrom.se/help/customising-templates) is recommended:
 
