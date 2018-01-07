@@ -1,0 +1,12 @@
+﻿---
+Title: Sidebar
+Status: hidden
+---
+[search]
+
+Calendar
+[eventsarchive /events/ 12]
+
+Tags
+
+[eventstags /events/]

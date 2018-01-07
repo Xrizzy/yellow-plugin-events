@@ -1,0 +1,27 @@
+---
+Title: New Event
+Published: @datetime
+Venue: @username
+Template: events
+Tag: New
+---
+##10 p.m.
+
+This is a new event. Just edit it as needed!
+ 
+[--more--]
+ 
+###Venue
+[googlemaps "Empire State Building, 350 5th Ave, New York, NY 10118, USA" 15 right] 
+##Empire State Building   
+350 5th Ave    
+New York, NY 10118    
+ 
+http://www.esbnyc.com/
+ 
+###Need a lift?
+
+Call me and I organize a lift for you.
+
+[fa fa-phone fa-accent]   [**Your Name +1 000 - 00 00 00**](tel:+1 000 000000)  
+[fa fa-phone fa-accent]   [**your.name @ your-domain.com**](mailto:your.name@your-domain.com?Subject=Lift)

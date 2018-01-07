@@ -1,0 +1,7 @@
+---
+Title: Events
+Description: Events
+Template: eventspages
+TemplateNew: events
+---
+This page is automatically generated.

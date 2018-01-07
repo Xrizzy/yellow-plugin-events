@@ -1,0 +1,11 @@
+# Datenstrom Yellow language
+
+Language: en
+LanguageDescription: English
+LanguageTranslator: Xrizzy
+LanguageVersion: 0.1
+
+EventsBy: -
+EventsFilter: Events:
+EventsTag: Tag(s):
+EventsMore: Event details…
