@@ -2,13 +2,13 @@ Events plugin 0.1.0
 ================
 An Events plugin for [Yellow](https://github.com/datenstrom/yellow/). 
 
-You might want to tell the world about the events you have organized. This plugin was made to manage these *events* in a convenient way.
+You might want to tell the world about the events you have organized. This plugin was made to manage these **events** in a convenient way.
 
 Thanks to the excellent work of the Yellow guys, putting this together was not much more than a copy and paste job with a little tweaking.
 
 Enjoy :)
 
-To make the best out of this yellow-plugin you might also want to install these yellow-plugins:
+To make the best out of this yellow-plugin you might also want to install these [yellow-plugins](https://github.com/datenstrom/yellow-plugins):
 * [Yellow Fontawesome plugin](https://github.com/datenstrom/yellow-plugins/tree/master/fontawesome) which provides beautiful fontawesome icons for your website.
 * [Yellow TOC plugin](https://github.com/datenstrom/yellow-plugins/tree/master/toc) for the agenda to your event, especially useful for meetings.
 
