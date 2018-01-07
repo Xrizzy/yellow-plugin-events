@@ -24,7 +24,8 @@ How to install?
 This plugin requieres at least Yellow 0.6.6!
 
 1. [Download and install Yellow](https://github.com/datenstrom/yellow/).
-2. [Download yellow-events-plugin](https://github.com/xrizzy/yellow-plugin-events/archive/master.zip). If you are using Safari, right click and select 'Download file as'.oO NOT unzip!).
+2. [Download yellow-events-plugin](https://github.com/xrizzy/yellow-plugin-events/archive/master.zip). If you are using Safari, right click and select 'Download file as'.
+3. Copy `yellow-plugin-events-master.zip` into your `system/plugins` folder. Do NOT unzip!  
 
 To uninstall delete the plugin files.
 
