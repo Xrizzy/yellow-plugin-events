@@ -8,11 +8,15 @@ Thanks to the excellent work of the Yellow guys, putting this together was not m
 
 Enjoy :)
 
-To make the best out of this plugin you might also install these plugins:
-* [Fontawesome plugin](https://github.com/datenstrom/yellow-plugins/tree/master/fontawesome) which provides beautiful fontawesome icons for your website.
+To make the best out of this plugin you might also want to install these plugins:
+* c which provides beautiful fontawesome icons for your website.
 * [TOC plugin](https://github.com/datenstrom/yellow-plugins/tree/master/toc) for the agenda to your event, especially useful for meetings.
 
+The following [custom navigation](https://developers.datenstrom.se/help/customising-templates) is recommended:
 
+Navigation: navigation -> shows only top level pages
+
+This is defined in the [settings](https://developers.datenstrom.se/help/markdown-cheat-sheet#settings) at the top of each page or in the config.ini file for the whole page.
 
 How to install?
 ---------------
@@ -29,7 +33,8 @@ How to use?
 The main Events page will show the list of upcomming events and is available on your website as `http://website/events/`. To create a new event, add a new file to the events folder.
 
 How to configure?
------------------
+----------------- 
+
 You can use shortcuts to show information about the Events:
 
 `[eventsarchive LOCATION]` for a list of months  
